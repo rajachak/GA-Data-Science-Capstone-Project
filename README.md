@@ -1,6 +1,16 @@
 # GA-Data-Science-Capstone-Project
-Capstone project for GA Data Science Immersive
+Table of Contents
 
-Current Files: 
-00_intro.ipnyb - first Jupyter notebook
-nyt recipe - the HTML of a recipe from the New York Times web page
+Notebook files: 
+
+00 - Build Ingredient List.ipnyb - inital EDA and NLP
+
+01 - Load Data, Build Predictive Model.ipnyb - Count Vectorization and modeling
+
+02 - Analyze Count Vectorized Data.ipnyb - Descriptive Analysis of data
+
+recipes.json - the original source data
+
+Technical Report.md - A report describing the methods used in this project
+
+The other .csv and .numbers files were used in the preprocessing of data.
