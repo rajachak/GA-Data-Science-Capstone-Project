@@ -11,6 +11,8 @@ Notebook files:
 
 recipes.json - the original source data
 
+Capstone Presnentation.pdf - slides for project presentation
+
 Technical Report.md - A report describing the methods used in this project
 
 The other .csv and .numbers files were used in the preprocessing of data.
