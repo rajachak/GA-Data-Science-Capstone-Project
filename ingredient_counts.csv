@@ -1,0 +1,1001 @@
+count,ingredient
+0,404,
+34,377,active yeast
+37,94,adobo sauce
+43,83,agave nectar
+65,61,alfredo sauce
+67,519,allspice
+68,32,allspice berrie
+69,723,almond
+72,173,almond extract
+74,40,almond flour
+77,32,almond milk
+94,87,amchur
+96,38,american cheese
+101,51,anaheim chile
+103,89,ancho
+104,143,ancho chile pepper
+106,52,anchovy
+107,193,anchovy fillet
+108,67,anchovy paste
+114,267,andouille sausage
+119,96,angel hair
+123,64,anise
+128,54,anise seed
+135,193,apple
+138,42,apple cider
+139,268,apple cider vinegar
+141,62,apple juice
+150,194,apricot
+160,294,arborio rice
+171,77,artichoke
+173,199,artichoke heart
+176,224,arugula
+178,49,asafetida
+180,106,asafoetida
+183,85,asiago
+184,278,asparagu
+186,62,asparagu spear
+197,1244,avocado
+210,891,bacon
+213,66,bacon dripping
+220,279,baguette
+223,1738,baking
+228,207,baking potato
+229,942,baking soda
+237,574,balsamic vinegar
+240,137,bamboo shoot
+241,267,banana
+256,128,barbecue sauce
+276,37,base
+277,2989,basil
+280,37,basil pesto sauce
+282,326,basmati rice
+286,1946,bay
+287,31,bay scallop
+290,294,bean
+295,45,bean paste
+299,36,bean thread
+301,454,beansprout
+303,58,beaten egg
+308,1155,beef
+311,51,beef bouillon
+312,61,beef brisket
+313,467,beef broth
+333,71,beef rib short
+340,34,beef shank
+345,37,beef sirloin
+351,45,beef stew meat
+353,200,beef stock
+354,65,beef tenderloin
+359,228,beer
+361,119,beet
+366,38,belgian endive
+367,2657,bell pepper
+374,37,berrie
+398,60,bird chile
+402,55,biscuit
+414,140,bittersweet chocolate
+419,1028,black bean
+422,32,black bean sauce
+431,196,black eyed pea
+442,112,black mustard
+443,437,black olive
+445,7412,black pepper
+446,453,black peppercorn
+453,46,black sesame
+454,30,black tea
+460,40,black vinegar
+462,93,blackberrie
+470,97,blanched almond
+481,59,blue cheese
+487,89,blueberrie
+495,205,bok choy
+501,37,bone chicken thigh
+508,36,boneless chicken breast
+510,80,bonito flake
+523,31,bouillon
+527,199,bourbon whiskey
+530,103,bow tie pasta
+539,169,brandy
+546,356,bread
+549,878,bread crumb
+552,37,bread dough
+553,196,bread flour
+562,30,breakfast sausage
+569,48,brewed coffee
+573,37,brie cheese
+584,448,broccoli
+585,48,broccoli rabe
+594,99,broth
+599,40,brown cardamom
+607,66,brown mustard
+608,246,brown rice
+617,2391,brown sugar
+621,39,brussel sprout
+651,7699,butter
+659,44,butter lettuce
+669,955,buttermilk
+675,174,butternut squash
+680,190,button mushroom
+683,683,cabbage
+691,70,cachaca
+701,377,cajun seasoning
+705,44,cake
+707,184,cake flour
+708,39,cake mix
+753,206,cannellini bean
+758,35,canola
+760,1223,canola oil
+766,541,caper
+774,65,capsicum
+783,86,caraway
+786,531,cardamom
+798,3145,carrot
+803,77,cashew
+807,218,cashew nut
+817,130,caster sugar
+820,109,catfish fillet
+823,296,cauliflower
+832,470,cayenne
+833,1662,cayenne pepper
+836,1356,celery
+839,567,celery rib
+840,34,celery root
+841,52,celery salt
+842,66,celery seed
+856,45,chaat masala
+879,32,chayote
+882,1310,cheddar cheese
+884,34,chee fresco queso
+885,76,chee mozzarella
+887,658,cheese
+896,55,cheese tortellini
+898,49,cherrie
+907,436,cherry tomato
+911,32,chervil
+912,39,chestnut
+921,1523,chicken
+926,130,chicken bouillon
+927,3100,chicken breast
+932,2341,chicken broth
+936,41,chicken cutlet
+938,94,chicken drumstick
+942,42,chicken finger
+949,117,chicken leg
+951,65,chicken liver
+952,55,chicken meat
+957,100,chicken piece
+963,1185,chicken stock
+966,741,chicken thigh
+969,133,chicken wing
+972,424,chickpea
+973,51,chickpea flour
+978,865,chile
+982,39,chile de arbol
+984,48,chile paste
+986,448,chile pepper
+989,48,chile sauce
+993,2487,chili
+998,158,chili flake
+1002,109,chili oil
+1003,134,chili paste
+1005,770,chili pepper
+1008,153,chili sauce
+1021,43,chinese black vinegar
+1023,59,chinese cabbage
+1027,37,chinese chive
+1031,44,chinese egg noodle
+1033,253,chinese five spice
+1047,131,chinese rice wine
+1061,53,chip
+1064,193,chipotle adobo
+1065,192,chipotle chile
+1066,42,chipotle chile pepper
+1068,68,chipotle pepper
+1074,558,chive
+1077,161,chocolate
+1083,33,chocolate chip
+1122,36,chop pecan
+1123,35,chop pork
+1125,72,chorizo
+1126,103,chorizo sausage
+1129,32,chow mein noodle
+1133,114,chuck
+1134,89,chuck roast
+1141,53,chutney
+1148,348,cider vinegar
+1149,5852,cilantro
+1152,71,cilantro stem
+1153,1927,cinnamon
+1159,646,cinnamon stick
+1171,94,clam
+1172,143,clam juice
+1176,51,clarified butter
+1186,1047,clove
+1189,45,club soda
+1194,31,cocktail cherrie
+1198,369,cocoa
+1199,273,coconut
+1203,77,coconut cream
+1205,97,coconut flake
+1209,1242,coconut milk
+1211,223,coconut oil
+1213,37,coconut sugar
+1217,38,cod
+1219,52,cod fillet
+1223,127,coffee
+1228,30,coffee liqueur
+1229,94,cognac
+1239,49,colby jack cheese
+1245,506,cold water
+1251,172,collard green
+1269,63,condensed cream chicken soup
+1270,55,condensed cream mushroom soup
+1275,346,condensed milk
+1280,395,confectioner sugar
+1292,2173,coriander
+1294,634,corn
+1297,31,corn chip
+1300,70,corn flour
+1302,93,corn husk
+1303,441,corn kernel
+1304,341,corn meal
+1308,121,corn oil
+1311,1757,corn starch
+1312,267,corn syrup
+1313,995,corn tortilla
+1314,39,corn tortilla chip
+1319,32,corned beef
+1323,103,cornflour
+1325,33,cornichon
+1328,491,cornmeal
+1331,139,cotija
+1332,155,cottage cheese
+1334,61,country bread
+1339,48,country ham
+1344,192,couscou
+1346,38,crab
+1349,150,crab meat
+1352,80,crabmeat
+1354,408,cracked black pepper
+1356,38,cracker
+1359,95,cranberrie
+1364,118,crawfish
+1366,1457,cream
+1368,638,cream cheese
+1370,143,cream cheese soften
+1374,83,cream chicken soup
+1378,44,cream mushroom soup
+1384,83,cream style corn
+1386,39,cream sweeten whip
+1387,159,cream tartar
+1395,116,creamy peanut butter
+1396,36,crema
+1402,138,cremini mushroom
+1403,65,creole mustard
+1405,276,creole seasoning
+1413,64,crimini mushroom
+1426,43,crouton
+1433,42,crusty bread
+1443,38,crystallized ginger
+1448,146,crème fraîche
+1458,796,cucumber
+1465,3701,cumin
+1466,935,cumin seed
+1470,67,curd
+1481,143,currant
+1483,1056,curry
+1487,366,curry paste
+1497,150,daikon
+1508,144,dashi
+1510,114,date
+1536,513,dijon mustard
+1538,355,dill
+1539,42,dill pickle
+1543,36,dillweed
+1548,59,dipping sauce
+1563,40,double cream
+1569,105,dough
+1574,64,dressing
+1578,35,dri leav thyme
+1585,64,duck
+1587,30,duck breast
+1598,30,dumpling
+1601,30,dumpling wrapper
+1608,40,ear corn
+1616,51,edamame
+1621,3390,egg
+1624,86,egg noodle
+1629,57,egg roll wrapper
+1630,72,egg substitute
+1631,453,egg white
+1632,542,egg yolk
+1635,526,eggplant
+1637,90,elbow macaroni
+1646,360,enchilada sauce
+1651,189,english cucumber
+1657,47,enokitake
+1659,43,epazote
+1663,60,escarole
+1664,103,espresso
+1674,224,evaporated milk
+1696,42,fava bean
+1699,448,fennel
+1700,205,fennel bulb
+1702,168,fenugreek
+1705,36,fermented black bean
+1708,626,feta cheese
+1711,30,fettuccine pasta
+1713,159,fettucine
+1721,59,fig
+1723,49,file
+1725,112,fillet
+1730,38,fillet snapper
+1743,353,firm tofu
+1744,91,fish
+1748,77,fish fillet
+1752,1551,fish sauce
+1754,59,fish stock
+1757,40,five spice
+1760,45,flaked coconut
+1763,258,flank steak
+1768,1094,flat parsley
+1784,6595,flour
+1785,868,flour tortilla
+1796,107,fontina cheese
+1797,125,food coloring
+1816,44,french baguette
+1817,192,french bread
+1842,31,frond
+1845,64,fruit
+1865,53,fusilli
+1868,38,gai lan
+1871,85,galangal
+1875,926,garam masala
+1877,150,garbanzo bean
+1882,50,gari
+1884,9297,garlic
+1888,130,garlic chili sauce
+1890,6237,garlic clove
+1899,282,garlic paste
+1903,240,garlic salt
+1908,128,gelatin
+1918,307,ghee
+1924,4519,ginger
+1929,119,ginger paste
+1932,461,ginger root
+1934,119,gingerroot
+1944,39,glas noodle
+1978,30,glutinou rice
+1981,41,gnocchi
+1983,216,goat cheese
+1988,30,gochugaru
+1989,142,gochujang base
+1997,83,golden brown sugar
+1999,32,golden deliciou apple
+2001,240,golden raisin
+2002,30,golden syrup
+2011,68,gorgonzola
+2022,38,graham cracker crumb
+2032,42,grain mustard
+2042,33,gram flour
+2047,30,grand marnier
+2049,119,granny smith apple
+2053,50,granulated garlic
+2054,879,granulated sugar
+2056,48,grape
+2058,228,grape tomato
+2062,79,grapeseed oil
+2066,36,grate lime peel
+2067,42,grated carrot
+2069,74,grated coconut
+2071,61,grated gruyère cheese
+2073,60,grated jack cheese
+2075,181,grated lemon peel
+2076,342,grated lemon zest
+2077,234,grated nutmeg
+2078,149,grated orange
+2079,95,grated orange peel
+2080,105,grated parmesan
+2081,1886,grated parmesan cheese
+2085,67,grating cheese
+2093,50,great northern bean
+2099,43,greek seasoning
+2103,117,greek style yogurt
+2104,266,greek yogurt
+2106,115,green
+2108,439,green bean
+2109,1448,green bell pepper
+2110,49,green bell pepper slice
+2112,208,green cabbage
+2113,166,green cardamom
+2116,1237,green chile
+2118,96,green curry paste
+2119,31,green enchilada sauce
+2127,31,green lettuce
+2129,223,green olive
+2130,3550,green onion
+2133,222,green pea
+2134,373,green pepper
+2141,33,green tea
+2143,108,green tomato
+2151,184,grit
+2155,99,gruyere cheese
+2156,185,guacamole
+2159,78,guajillo chile
+2177,31,habanero pepper
+2183,337,half & half
+2185,65,halibut fillet
+2189,385,ham
+2190,44,ham hock
+2195,54,hamburger bun
+2198,104,hard boiled egg
+2204,54,haricot vert
+2205,42,harissa
+2209,43,has avocado
+2217,127,hazelnut
+2234,36,heirloom tomato
+2244,157,herb
+2251,65,herbe de provence
+2284,429,hoisin sauce
+2291,40,homemade chicken stock
+2296,156,hominy
+2298,1299,honey
+2315,45,horseradish
+2322,40,hot chili
+2325,36,hot chili sauce
+2334,48,hot italian sausage
+2338,68,hot pepper
+2339,171,hot pepper flake
+2341,306,hot pepper sauce
+2345,674,hot sauce
+2350,356,hot water
+2351,43,hothouse cucumber
+2359,37,hungarian sweet paprika
+2368,291,ice
+2371,164,ice water
+2373,164,iceberg lettuce
+2392,31,irish whiskey
+2396,118,italian bread
+2397,30,italian breadcrumb
+2406,125,italian parsley
+2408,34,italian plum tomato
+2411,66,italian salad dressing
+2414,141,italian sausage
+2415,395,italian seasoning
+2423,54,italian turkey sausage
+2427,118,jack cheese
+2432,40,jaggery
+2434,1730,jalapeno chile
+2456,53,japanese eggplant
+2472,157,jasmine rice
+2486,88,jicama
+2504,284,juice
+2507,44,jumbo pasta shell
+2510,63,jumbo shrimp
+2514,139,kaffir lime
+2520,196,kalamata
+2521,209,kalamata olive
+2522,180,kale
+2537,51,kasuri methi
+2547,84,kernel corn
+2548,106,kernel corn drain
+2550,432,ketchup
+2557,31,key lime juice
+2562,290,kidney bean
+2570,112,kimchi
+2626,66,konbu
+2663,47,ladyfinger
+2667,209,lamb
+2686,48,lamb shank
+2687,84,lamb shoulder
+2700,157,lard
+2703,2980,large egg
+2704,485,large egg white
+2705,575,large egg yolk
+2707,873,large garlic clove
+2711,433,large shrimp
+2715,254,lasagna noodle
+2729,436,lean beef
+2734,43,lean pork
+2737,57,leav spinach
+2739,439,leek
+2744,89,leg lamb
+2748,1315,lemon
+2754,100,lemon gras
+2755,3074,lemon juice
+2759,40,lemon peel
+2760,37,lemon pepper
+2763,72,lemon rind
+2769,225,lemon wedge
+2770,249,lemon zest
+2773,364,lemongras
+2774,255,lentil
+2778,39,les beef broth
+2779,475,les chicken broth
+2784,591,lettuce
+2792,73,lima bean
+2793,1565,lime
+2794,2442,lime juice
+2796,78,lime rind
+2797,482,lime wedge
+2798,137,lime zest
+2803,248,linguine
+2817,41,liqueur
+2818,65,liquid
+2822,34,liquid smoke
+2827,62,littleneck clam
+2835,50,lobster
+2847,630,long grain rice
+2857,30,loosely  basil
+2875,36,macaroni
+2877,81,mace
+2881,33,madeira
+2884,36,madra curry
+2900,51,malt vinegar
+2903,60,manchego cheese
+2905,31,mandarin orange
+2909,272,mango
+2910,58,mango chutney
+2926,110,maple syrup
+2929,225,margarine
+2934,81,marinade
+2935,232,marinara sauce
+2936,168,marjoram
+2943,121,marsala wine
+2952,100,masa harina
+2954,69,masala
+2955,149,mascarpone
+2958,63,mashed potato
+2970,946,mayonaise
+2983,168,meat
+2984,35,meat bone
+2999,31,meatball
+3010,461,medium shrimp
+3023,276,melted butter
+3036,30,mexican beer
+3037,247,mexican cheese
+3038,32,mexican chocolate
+3039,33,mexican chorizo
+3041,100,mexican oregano
+3066,3636,milk
+3068,30,milk chocolate
+3074,53,milk ricotta cheese
+3080,30,minced beef
+3082,1587,minced garlic
+3083,198,minced ginger
+3086,223,minced onion
+3088,36,minced pork
+3096,37,mini marshmallow
+3102,1290,mint
+3105,31,mint flake
+3110,503,mirin
+3112,169,miso
+3113,73,miso paste
+3122,63,mixed green
+3128,33,mixed spice
+3130,41,mixed vegetable
+3140,139,molasse
+3146,236,monterey jack
+3147,355,monterey jack cheese
+3165,137,mozzarella
+3167,1182,mozzarella cheese
+3181,34,mung bean
+3183,85,mung bean sprout
+3190,1175,mushroom
+3192,39,mushroom cap
+3196,175,mussel
+3198,739,mustard
+3199,51,mustard green
+3200,32,mustard oil
+3204,37,naan
+3211,243,napa cabbage
+3219,58,navel orange
+3226,38,neutral oil
+3228,57,new potato
+3248,133,non fat sour cream
+3258,40,nonfat greek yogurt
+3262,33,nonfat milk
+3265,35,nonfat ricotta cheese
+3267,74,nonfat yogurt
+3270,50,nonstick spray
+3271,238,noodle
+3274,115,nori
+3282,51,nut
+3286,857,nutmeg
+3298,2463,oil
+3305,321,okra
+3307,98,old bay seasoning
+3323,196,olive
+3324,10725,olive oil
+3325,47,olive oil  spray
+3327,47,olive oil spray
+3331,12418,onion
+3338,36,onion top
+3340,373,orange
+3341,93,orange bell pepper
+3347,37,orange flower water
+3349,588,orange juice
+3351,61,orange liqueur
+3352,42,orange marmalade
+3353,40,orange peel
+3355,42,orange rind
+3360,152,orange zest
+3362,43,orecchiette
+3363,2633,oregano
+3369,91,orzo
+3370,33,orzo pasta
+3379,36,oxtail
+3380,61,oyster
+3383,33,oyster mushroom
+3384,455,oyster sauce
+3394,122,palm sugar
+3404,179,pancetta
+3413,110,paneer
+3418,83,panko
+3420,144,panko breadcrumb
+3424,34,papaya
+3428,1309,paprika
+3435,931,parmesan cheese
+3438,414,parmigiano reggiano cheese
+3439,2871,parsley
+3440,44,parsley flake
+3442,68,parsnip
+3445,29,pasilla chile
+3452,362,pasta
+3454,279,pasta sauce
+3457,36,pasta shell
+3464,46,pastry
+3468,106,pastry puff sheet
+3473,626,pea
+3487,278,peache
+3490,660,peanut
+3492,158,peanut butter
+3494,610,peanut oil
+3497,149,pear
+3501,31,pearl barley
+3503,85,pearl onion
+3507,558,pecan
+3510,55,pecorino cheese
+3511,157,pecorino romano cheese
+3516,113,penne
+3517,178,penne pasta
+3523,8672,pepper
+3526,1231,pepper flake
+3528,82,pepper jack
+3529,34,pepper jack cheese
+3530,34,pepper sauce
+3531,195,peppercorn
+3541,88,pepperoni
+3550,118,pesto
+3559,67,phyllo dough
+3560,36,phyllo pastry
+3561,56,picante sauce
+3565,36,pickle
+3567,32,pickle relish
+3583,79,pico de gallo
+3585,63,pie crust
+3590,32,pie shell
+3608,141,pimento
+3609,37,pimento stuffed green olive
+3614,39,pine nut
+3615,221,pineapple
+3616,44,pineapple chunk
+3618,98,pineapple juice
+3623,348,pinenut
+3637,203,pinto bean
+3643,88,pistachio
+3646,47,pita
+3647,40,pita bread
+3655,56,pizza crust
+3657,122,pizza dough
+3658,80,pizza sauce
+3662,38,plantain
+3663,74,plum
+3666,858,plum tomato
+3669,188,poblano chile
+3670,121,poblano pepper
+3676,148,polenta
+3681,37,pomegranate
+3694,74,poppy
+3700,100,porcini mushroom
+3701,793,pork
+3703,30,pork back rib
+3704,124,pork belly
+3709,67,pork butt
+3712,67,pork chop
+3722,133,pork loin
+3723,53,pork loin chop
+3728,30,pork rib
+3731,38,pork roast
+3734,117,pork sausage
+3738,214,pork shoulder
+3741,38,pork shoulder roast
+3750,229,pork tenderloin
+3756,68,portabello mushroom
+3766,1430,potato
+3776,59,potato starch
+3780,62,poultry seasoning
+3790,31,powdered milk
+3791,501,powdered sugar
+3800,103,prawn
+3806,30,prepar salsa
+3809,72,prepared horseradish
+3811,32,prepared mustard
+3818,63,preserved lemon
+3824,43,processed cheese
+3832,285,prosciutto
+3837,167,provolone cheese
+3838,81,prune
+3845,51,puff pastry
+3853,115,pumpkin
+3864,169,pure vanilla extract
+3868,1896,purple onion
+3882,141,queso fresco
+3892,86,quickcooking grit
+3895,146,quinoa
+3899,44,ra el hanout
+3903,61,radicchio
+3906,293,radishe
+3920,460,raisin
+3927,60,ramen noodle
+3934,75,ranch dressing
+3943,185,raspberrie
+3961,32,raw cashew
+3978,268,refried bean
+3988,71,refrigerated piecrust
+3989,35,refrigerated pizza dough
+3995,30,regular soy sauce
+4005,59,rib
+4007,58,rib eye steak
+4013,1441,rice
+4016,33,rice cake
+4018,147,rice flour
+4022,307,rice noodle
+4024,72,rice paper
+4027,47,rice stick noodle
+4029,93,rice vermicelli
+4030,1213,rice vinegar
+4031,221,rice wine
+4032,60,rice wine vinegar
+4035,108,ricotta
+4036,490,ricotta cheese
+4040,75,rigatoni
+4043,92,ripe olive
+4054,58,roast peanut
+4055,46,roast peppers drain
+4058,61,roasting chicken
+4065,32,rock sugar
+4066,49,rocket
+4069,89,roll
+4070,33,rolled oat
+4071,227,roma tomato
+4072,311,romaine lettuce
+4075,108,romano cheese
+4086,856,rosemary
+4093,31,rotelle
+4095,60,rotini
+4097,66,rotisserie chicken
+4099,54,round
+4108,51,rubbed sage
+4111,222,rum
+4119,266,russet potato
+4132,36,safflower oil
+4133,209,saffron
+4135,277,saffron thread
+4136,421,sage
+4140,345,sake
+4142,64,salad
+4143,70,salad dressing
+4145,49,salad green
+4146,56,salad oil
+4148,58,salami
+4149,61,salmon
+4151,171,salmon fillet
+4155,1034,salsa
+4156,135,salsa verde
+4158,21831,salt
+4159,215,salt and black pepper
+4161,385,salt chicken broth
+4164,37,salt pork
+4171,77,salted butter
+4176,38,salted peanut
+4179,33,salted roast peanut
+4181,39,saltine
+4186,52,sambal ulek
+4191,51,sandwich bread
+4210,459,sauce
+4215,195,sausage
+4216,108,sausage casing
+4217,59,sausage link
+4223,56,savoy cabbage
+4229,1891,scallion
+4230,61,scallion green
+4231,44,scallop
+4237,46,scotch bonnet chile
+4242,34,sea bas fillet
+4245,1293,sea salt
+4247,114,sea scallop
+4254,141,seasoning
+4257,131,seasoning salt
+4258,57,seaweed
+4259,50,seedles cucumber
+4270,77,semi sweet chocolate morsel
+4273,164,semisweet chocolate
+4276,63,semolina
+4277,59,semolina flour
+4278,32,serrano
+4279,380,serrano chile
+4281,106,serrano pepper
+4282,1105,sesame
+4287,2329,sesame oil
+4294,1500,shallot
+4301,264,shaoxing wine
+4305,468,sharp cheddar cheese
+4310,43,shell
+4311,41,shell on shrimp
+4321,353,sherry
+4322,160,sherry vinegar
+4324,41,sherry wine vinegar
+4326,331,shiitake
+4327,220,shiitake mushroom
+4328,63,shiitake mushroom cap
+4338,62,short grain rice
+4345,229,shortening
+4352,1179,shrimp
+4357,56,shrimp paste
+4370,44,silken tofu
+4374,42,simple syrup
+4377,92,sirloin
+4378,82,sirloin steak
+4385,78,skimmed chicken broth
+4390,73,skirt steak
+4393,43,slaw mix
+4401,33,smoked bacon
+4412,62,smoked ham hock
+4417,345,smoked paprika
+4421,55,smoked salmon
+4422,141,smoked sausage
+4437,33,snapper
+4442,185,snow pea
+4445,34,soba
+4446,68,soba noodle
+4471,34,soup
+4476,1761,sour cream
+4483,50,sourdough bread
+4499,4595,soy sauce
+4511,342,spaghetti
+4515,36,spaghetti squash
+4518,51,spanish chorizo
+4520,47,spanish onion
+4521,33,spanish paprika
+4535,171,spice
+4549,1283,spinach
+4560,35,split pea
+4565,1490,spray
+4568,407,spring onion
+4571,61,spring roll wrapper
+4574,40,sprinkle
+4578,149,squash
+4580,85,squid
+4583,298,sriracha
+4586,259,star anise
+4589,72,steak
+4606,32,sticky rice
+4612,91,stock
+4624,31,straw mushroom
+4625,234,strawberrie
+4655,7542,sugar
+4661,104,sugar pea
+4674,161,sun dried tomato
+4675,36,sun dried tomato oil
+4683,97,sunflower oil
+4685,74,superfine sugar
+4688,81,sushi rice
+4704,113,sweet chili sauce
+4707,76,sweet corn
+4713,78,sweet italian sausage
+4718,336,sweet onion
+4719,134,sweet paprika
+4721,62,sweet pepper
+4725,455,sweet potato
+4732,30,sweet rice flour
+4745,108,swis chard
+4746,109,swis cheese
+4752,36,syrup
+4754,142,szechwan peppercorn
+4757,184,tabasco pepper sauce
+4760,79,table salt
+4769,63,taco sauce
+4770,286,taco seasoning
+4771,181,taco seasoning mix
+4772,63,taco shell
+4777,62,tahini
+4786,90,tamari soy sauce
+4788,74,tamarind
+4791,84,tamarind paste
+4808,49,tapioca flour
+4810,38,tapioca starch
+4813,234,tarragon
+4827,41,tea
+4828,54,tea bag
+4839,135,tequila
+4841,63,teriyaki sauce
+4848,56,thick cut bacon
+4855,2430,thyme
+4863,73,tilapia fillet
+4870,185,tofu
+4877,322,tomatillo
+4879,6145,tomato
+4887,115,tomato juice
+4888,69,tomato ketchup
+4890,1159,tomato paste
+4891,217,tomato purée
+4892,61,tomato salsa
+4893,872,tomato sauce
+4896,86,tomato with juice
+4916,222,tortilla
+4917,339,tortilla chip
+4935,35,triple sec
+4944,37,truffle oil
+4953,763,tumeric
+4954,48,tuna
+4961,47,tuna steak
+4965,50,turbinado
+4968,286,turkey
+4971,70,turkey breast
+4995,958,turmeric
+4997,115,turnip
+5006,64,udon
+5027,68,urad dal
+5036,322,vanilla
+5040,168,vanilla bean
+5047,1298,vanilla extract
+5052,94,vanilla ice cream
+5053,35,vanilla pudding
+5057,36,vanilla wafer
+5061,74,veal
+5095,205,vegetable
+5097,490,vegetable broth
+5105,4385,vegetable oil
+5106,344,vegetable oil spray
+5109,138,vegetable shortening
+5112,206,vegetable stock
+5118,30,veggie
+5120,30,velveeta
+5129,46,vermicelli
+5131,53,vermouth
+5133,115,vidalia onion
+5135,43,vinaigrette
+5139,34,vine ripened tomato
+5141,873,vinegar
+5148,77,vodka
+5155,302,walnut
+5159,577,warm water
+5161,55,wasabi
+5162,39,wasabi paste
+5163,7807,water
+5165,196,water chestnut
+5169,112,watercres
+5170,39,watermelon
+5173,31,waxy potato
+5181,30,wheat bread
+5192,216,wheat flour
+5203,30,wheat pastry flour
+5229,93,wheat tortilla
+5237,944,whipped cream
+5240,56,whipped topping
+5241,30,whiskey
+5242,33,whitefish
+5251,50,wild mushroom
+5255,2244,wine
+5258,1127,wine vinegar
+5277,200,wonton wrapper
+5279,35,wood ear mushroom
+5281,702,worcestershire sauce
+5286,41,yam
+5290,313,yeast
+5296,844,yogurt
+5312,218,yukon gold potato
+5323,918,zucchini
